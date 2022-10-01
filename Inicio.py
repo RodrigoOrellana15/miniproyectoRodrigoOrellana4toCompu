@@ -1,4 +1,4 @@
-from miniproyectoRodrigoOrellana4toCompu.persona import persona
+from persona import persona
 from io import open
 
 misContactos = [persona(123,'Luis', 'casa 1'), persona(321, 'Julio', 'Casa 2')]
